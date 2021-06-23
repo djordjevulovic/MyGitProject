@@ -3,3 +3,5 @@ Content added by DEV2
 =======
 Content added by DEV1
 >>>>>>> 94f87737f6279fa6120b0781162bdc0351cf1f3f
+
+Something from the Chrome
